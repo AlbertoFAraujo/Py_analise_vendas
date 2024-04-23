@@ -2,34 +2,20 @@
 
 
 ### Tecnologias utilizadas: 
-| [<img align="center" alt="python" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_webscraping_dolar/assets/105552990/3a99e64a-2768-4900-bd0e-7a512ce6abe8">](https://www.python.org/doc/) | [<img align="center" alt="selenium" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_webscraping_dolar/assets/105552990/bd12d032-3bfe-40c2-b2e4-226b3a961a37">](https://www.selenium.dev/documentation/) | [<img align="center" alt="plotly" height="60" width="60" src="https://github.com/AlbertoFAraujo/R_Petrobras/assets/105552990/5f681062-c399-44af-a658-23e94b8b656f">](https://plotly.com/r/) | [<img align="center" alt="pandas" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_webscraping_dolar/assets/105552990/805c2eb5-8c09-4c2a-9b27-920d9a527b6b">](https://pandas.pydata.org/docs/) |
+| [<img align="center" alt="python" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_webscraping_dolar/assets/105552990/3a99e64a-2768-4900-bd0e-7a512ce6abe8">](https://www.python.org/doc/) | [<img align="center" alt="seaborn" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_analise_vendas/assets/105552990/e2bebe3b-54ae-4761-8b00-9d0d2657f253">](https://seaborn.pydata.org/) | [<img align="center" alt="matplotlib" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_analise_vendas/assets/105552990/2f17c02b-bd19-432b-bcfe-183f5ef285f8">](https://matplotlib.org/stable/index.html) | [<img align="center" alt="pandas" height="60" width="60" src="https://github.com/AlbertoFAraujo/Py_webscraping_dolar/assets/105552990/805c2eb5-8c09-4c2a-9b27-920d9a527b6b">](https://pandas.pydata.org/docs/) |
 |:---:|:---:|:---:|:---:|
-| Python | Selenium | Plotly | Pandas |
+| Python | Seaborn | Matplotlib | Pandas |
 
 - **Python:** Linguagem de programação de alto nível, conhecida por sua simplicidade e versatilidade, amplamente utilizada em desenvolvimento de software, análise de dados, inteligência artificial e muitas outras áreas.
-- **Selenium:** Framework de automação de navegador web, utilizado principalmente para testes automatizados de aplicativos web, mas também pode ser usado para outras tarefas de automação.
-- **Plotly:** Biblioteca de visualização de dados interativa e de código aberto, que permite criar gráficos e visualizações complexas em Python.
+- **Seaborn:** Biblioteca Python baseada em Matplotlib, projetada para criar visualizações estatísticas atraentes e informativas com facilidade, oferecendo uma interface de alto nível para gráficos estatísticos.
+- **Matplotlib:** Biblioteca de visualização de dados em Python, amplamente utilizada para criar gráficos estáticos, gráficos interativos e animações, oferecendo controle detalhado sobre cada aspecto da visualização.
 - **Pandas:** Biblioteca Python amplamente usada para manipulação e análise de dados, oferecendo estruturas de dados poderosas e flexíveis, como o DataFrame, e uma grande variedade de ferramentas para limpeza, transformação e análise de dados.
-<hr>
-
-### Sobre a base de Dados
-
-O site apresenta a cotação oficial do dólar em relação ao real brasileiro, desde 1985 até 2023, com base na fonte da Secretaria da Receita Federal. A página também informa os períodos em que a moeda brasileira mudou de nome e de valor.
-
-Períodos de alteração da moeda:
-- de 1970 a 1985 - Valores em Cruzeiros
-- a partir de 1º/3/1986 - Valores em Cruzados 
-- a partir de 15/1/1989 - Valores em Cruzados Novos
-- a partir de 15/3/1990 - Valores em Cruzeiros
-- a partir de 1º/8/1993 - Valores em Cruzeiros Reais
-- a partir de 1º/7/1994 - Valores em Reais
-
-**Fonte:** https://www.aasp.org.br/suporte-profissional/indices-economicos/mensal/dolar/ <br>
-
 <hr>
 
 ### Objetivo: 
 
-Explorar e analisar os dados históricos dos valores do dólar coletados da Associação dos Advogados de São Paulo (AASP) para identificar tendências temporais, padrões sazonais e insights significativos. O projeto visa fornecer uma compreensão detalhada da flutuação do dólar ao longo do tempo, destacando possíveis influências econômicas e eventos importantes que possam ter afetado sua taxa de câmbio.
+Este projeto tem por objetivo realizar uma análise exploratória de vendas das cidades de: Aracaju, Fortaleza, Natal, Recife e Salvador nos anos de 2018 e 2019.
+
+**Base de dados:** Cursos dio.me
 
 <hr>
